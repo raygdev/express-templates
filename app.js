@@ -1,7 +1,5 @@
-const path = require('path')
-
 const express = require('express')
-const ejs =require('ejs')
+
 const router = require('./routes/routes')
 
 const app = express()
